@@ -1,0 +1,10 @@
+
+
+@import "../../../styles/mixins";
+@import "../../../styles/variables";
+.section-title{
+    text-align: center;
+    color: $color1;
+    margin-bottom: 20px;
+    letter-spacing:0.3rem;
+    @include shadow(text, 0 3px $color2) }
