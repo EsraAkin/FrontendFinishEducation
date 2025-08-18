@@ -16,8 +16,8 @@ const HomePage = () => {
     <FeaturedCourses/>
     <Spacer/>
      <UpcomingEvents />
-      <Spacer />
-      <MobileApp />
+    <Spacer />
+    <MobileApp />
     
     </>
   )
